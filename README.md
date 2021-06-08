@@ -25,7 +25,7 @@
 ![image](https://user-images.githubusercontent.com/47859342/121127208-61524b00-c864-11eb-8cda-e56cce5e9e8f.png)
 
 
-## 3. Model 3(7 Layers w/ 3 Conv Layers)
+## 3. Model 3(7 Layers w/ 4 Conv Layers)
 ### 1. Model
 ![image](https://user-images.githubusercontent.com/47859342/121125900-48489a80-c862-11eb-9d69-0a93d84852c0.png)
 ### 2. Training with Training loss
